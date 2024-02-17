@@ -1,0 +1,12 @@
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Intrastructure\bin\Debug\net7.0\AllBlocks.Intrastructure.deps.json
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Intrastructure\bin\Debug\net7.0\AllBlocks.Intrastructure.dll
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Intrastructure\bin\Debug\net7.0\AllBlocks.Intrastructure.pdb
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Intrastructure\obj\Debug\net7.0\AllBlocks.Intrastructure.csproj.AssemblyReference.cache
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Intrastructure\obj\Debug\net7.0\AllBlocks.Intrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Intrastructure\obj\Debug\net7.0\AllBlocks.Intrastructure.AssemblyInfoInputs.cache
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Intrastructure\obj\Debug\net7.0\AllBlocks.Intrastructure.AssemblyInfo.cs
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Intrastructure\obj\Debug\net7.0\AllBlocks.Intrastructure.csproj.CoreCompileInputs.cache
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Intrastructure\obj\Debug\net7.0\AllBlocks.Intrastructure.dll
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Intrastructure\obj\Debug\net7.0\refint\AllBlocks.Intrastructure.dll
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Intrastructure\obj\Debug\net7.0\AllBlocks.Intrastructure.pdb
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Intrastructure\obj\Debug\net7.0\ref\AllBlocks.Intrastructure.dll

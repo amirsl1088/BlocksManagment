@@ -1,0 +1,14 @@
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Entities\bin\Debug\net7.0\AllBlocks.Entities.deps.json
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Entities\bin\Debug\net7.0\AllBlocks.Entities.dll
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Entities\bin\Debug\net7.0\AllBlocks.Entities.pdb
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Entities\obj\Debug\net7.0\AllBlocks.Entities.csproj.AssemblyReference.cache
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Entities\obj\Debug\net7.0\AllBlocks.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Entities\obj\Debug\net7.0\AllBlocks.Entities.AssemblyInfoInputs.cache
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Entities\obj\Debug\net7.0\AllBlocks.Entities.AssemblyInfo.cs
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Entities\obj\Debug\net7.0\AllBlocks.Entities.csproj.CoreCompileInputs.cache
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Entities\obj\Debug\net7.0\AllBlocks.Entities.dll
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Entities\obj\Debug\net7.0\refint\AllBlocks.Entities.dll
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Entities\obj\Debug\net7.0\AllBlocks.Entities.pdb
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Entities\obj\Debug\net7.0\ref\AllBlocks.Entities.dll
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Entities\bin\Debug\net7.0\AllBlocks.Entities.runtimeconfig.json
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Entities\obj\Debug\net7.0\AllBlocks.Entities.genruntimeconfig.cache

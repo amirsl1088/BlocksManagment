@@ -1,0 +1,364 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.RestApi\\AllBlocks.RestApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Entities\\AllBlocks.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Entities\\AllBlocks.Entities.csproj",
+        "projectName": "AllBlocks.Entities",
+        "projectPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Entities\\AllBlocks.Entities.csproj",
+        "packagesPath": "C:\\Users\\StockRayaneGostar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\StockRayaneGostar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Arch.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.PersistenceEF\\AllBlocks.Persistence.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.PersistenceEF\\AllBlocks.Persistence.EF.csproj",
+        "projectName": "AllBlocks.Persistence.EF",
+        "projectPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.PersistenceEF\\AllBlocks.Persistence.EF.csproj",
+        "packagesPath": "C:\\Users\\StockRayaneGostar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.PersistenceEF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\StockRayaneGostar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Entities\\AllBlocks.Entities.csproj": {
+                "projectPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Entities\\AllBlocks.Entities.csproj"
+              },
+              "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Services\\AllBlocks.Services.csproj": {
+                "projectPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Services\\AllBlocks.Services.csproj"
+              },
+              "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\Taav.Contracts\\Taav.Contracts.csproj": {
+                "projectPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\Taav.Contracts\\Taav.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.RestApi\\AllBlocks.RestApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.RestApi\\AllBlocks.RestApi.csproj",
+        "projectName": "AllBlocks.RestApi",
+        "projectPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.RestApi\\AllBlocks.RestApi.csproj",
+        "packagesPath": "C:\\Users\\StockRayaneGostar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.RestApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\StockRayaneGostar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.PersistenceEF\\AllBlocks.Persistence.EF.csproj": {
+                "projectPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.PersistenceEF\\AllBlocks.Persistence.EF.csproj"
+              },
+              "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Services\\AllBlocks.Services.csproj": {
+                "projectPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Services\\AllBlocks.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Arch.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.15, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Services\\AllBlocks.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Services\\AllBlocks.Services.csproj",
+        "projectName": "AllBlocks.Services",
+        "projectPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Services\\AllBlocks.Services.csproj",
+        "packagesPath": "C:\\Users\\StockRayaneGostar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\StockRayaneGostar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Entities\\AllBlocks.Entities.csproj": {
+                "projectPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\AllBlocks.Entities\\AllBlocks.Entities.csproj"
+              },
+              "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\Taav.Contracts\\Taav.Contracts.csproj": {
+                "projectPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\Taav.Contracts\\Taav.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\Taav.Contracts\\Taav.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\Taav.Contracts\\Taav.Contracts.csproj",
+        "projectName": "Taav.Contracts",
+        "projectPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\Taav.Contracts\\Taav.Contracts.csproj",
+        "packagesPath": "C:\\Users\\StockRayaneGostar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StockRayaneGostar\\source\\repos\\BlocksSolution\\Taav.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\StockRayaneGostar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

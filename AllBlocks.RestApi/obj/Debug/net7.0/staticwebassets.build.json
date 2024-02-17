@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FnaMB/NqZirPSH+0ft2mdFX93I2BdsJBXIrGqXM8vG4=",
+  "Source": "AllBlocks.RestApi",
+  "BasePath": "_content/AllBlocks.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

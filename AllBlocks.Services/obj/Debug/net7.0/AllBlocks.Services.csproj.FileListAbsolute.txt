@@ -1,0 +1,17 @@
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\bin\Debug\net7.0\AllBlocks.Services.deps.json
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\bin\Debug\net7.0\AllBlocks.Services.dll
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\bin\Debug\net7.0\AllBlocks.Services.pdb
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\bin\Debug\net7.0\AllBlocks.Entities.dll
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\bin\Debug\net7.0\Taav.Contracts.dll
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\bin\Debug\net7.0\AllBlocks.Entities.pdb
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\bin\Debug\net7.0\Taav.Contracts.pdb
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\obj\Debug\net7.0\AllBlocks.Services.csproj.AssemblyReference.cache
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\obj\Debug\net7.0\AllBlocks.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\obj\Debug\net7.0\AllBlocks.Services.AssemblyInfoInputs.cache
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\obj\Debug\net7.0\AllBlocks.Services.AssemblyInfo.cs
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\obj\Debug\net7.0\AllBlocks.Services.csproj.CoreCompileInputs.cache
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\obj\Debug\net7.0\AllBlocks.Services.csproj.CopyComplete
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\obj\Debug\net7.0\AllBlocks.Services.dll
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\obj\Debug\net7.0\refint\AllBlocks.Services.dll
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\obj\Debug\net7.0\AllBlocks.Services.pdb
+C:\Users\StockRayaneGostar\source\repos\BlocksSolution\AllBlocks.Services\obj\Debug\net7.0\ref\AllBlocks.Services.dll
